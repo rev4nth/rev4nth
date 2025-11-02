@@ -30,9 +30,7 @@ React • Vite • Tailwind CSS • Spring Boot • MySQL • Node.js • Expres
 - Email: *(optional — you can add this if you want)*
 
 ---
-
-
-![SmartInterviews](https://img.shields.io/endpoint?url=https%3A%2F%2Fsmartinterviewsbadge.vercel.app%2Fapi%2FAmbati_Abhinay)
+![SmartInterviews](https://img.shields.io/endpoint?url=https%3A%2F%2Fsmartinterviewsbadge.vercel.app%2Fapi%2F2300090230laxman)
 rn. Build. Repeat.”*
 
 
