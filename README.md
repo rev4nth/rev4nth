@@ -35,3 +35,5 @@ React • Vite • Tailwind CSS • Spring Boot • MySQL • Node.js • Expres
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314dptml4amc5gft44zvd6kzsc6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 ⭐ *“Code. Learn. Build. Repeat.”*
+
+![SmartInterviews](https://img.shields.io/endpoint?url=https%3A%2F%2Fsmartinterviewsbadge.vercel.app%2Fapi%2F2300090029)
