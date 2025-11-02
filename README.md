@@ -32,7 +32,7 @@ React • Vite • Tailwind CSS • Spring Boot • MySQL • Node.js • Expres
 ---
 
 
-![SmartInterviews](https://img.shields.io/endpoint?url=https%3A%2F%2Fsmartinterviewsbadge.vercel.app%2Fapi%2F2300090029)
+![SmartInterviews](https://img.shields.io/endpoint?url=https%3A%2F%2Fsmartinterviewsbadge.vercel.app%2Fapi%2FAmbati_Abhinay)
 rn. Build. Repeat.”*
 
 
