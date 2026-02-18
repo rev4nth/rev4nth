@@ -10,8 +10,11 @@ Insta: for chill convos
 
 
 
+LinkedIn: for collabs & startups 
+<a href="https://www.linkedin.com/in/maddula-revanth-sri-816022316/" target="_blank">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" height="16" align="center" />
+</a>
 
-LinkedIn: for collabs & startups
 
 Client work / freelancing: oneocta.com (“Your idea → my code → real product.”)
 
