@@ -1,8 +1,10 @@
 Not your avg CS student ⚡
 Code. Build. Scale.
 
-Insta: for chill convos ([![Instagram](https://img.shields.io/badge/Instagram-rev4nth._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rev4nth._/)
-)
+Insta: for chill convos <a href="https://www.instagram.com/rev4nth._/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+</a>
+
 
 LinkedIn: for collabs & startups
 
