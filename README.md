@@ -3,8 +3,9 @@ Code. Build. Scale.
 
 Insta: for chill convos 
 <a href="https://www.instagram.com/rev4nth._/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="18" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="18" />
 </a>
+
 
 
 
