@@ -1,9 +1,11 @@
 Not your avg CS student ⚡
 Code. Build. Scale.
 
-Insta: for chill convos <a href="https://www.instagram.com/rev4nth._/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+Insta: for chill convos 
+<a href="https://www.instagram.com/rev4nth._/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="18" style="vertical-align: middle;" />
 </a>
+
 
 
 LinkedIn: for collabs & startups
