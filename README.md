@@ -3,8 +3,9 @@ Code. Build. Scale.
 
 Insta: for chill convos 
 <a href="https://www.instagram.com/rev4nth._/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-ffffff?logo=instagram&logoColor=000000&style=flat-square" height="18" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32" width="18" />
 </a>
+
 
 
 
